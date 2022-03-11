@@ -8,7 +8,7 @@ The programs will plateau as it hits the fitness function which is a function us
 Simply download the zip folder from the repository and extract the downloaded files.
 
 
-#How-to-run
+# How-to-run
 Install the matpltlib pythonn library and the numpy python library via:
 ```
 pip install matplotlib
